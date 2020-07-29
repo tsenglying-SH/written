@@ -1,5 +1,6 @@
 package byteDance;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 /**
@@ -53,8 +54,9 @@ import java.util.Scanner;
 */
 public class Question1 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String s1 = sc.nextLine();
+      Scanner sc = new Scanner(System.in);
+        /* String s1 = sc.nextLine();
+        // 正则表达式//s表示空白符，split()函数将其分割为字符串数组
         String str1[] = s1.split("\\s");
         int n = Integer.valueOf(str1[0]);
         int d = Integer.valueOf(str1[1]);
@@ -63,32 +65,40 @@ public class Question1 {
         int[] arr = new int[n];
         for (int i = 0; i < n; i++) {
             arr[i] = Integer.valueOf(str2[i]);
+        }*/
+       int n=sc.nextInt();
+       int d =sc.nextInt();
+       if(n<=2){
+           System.out.println(-1);
+           return;
+       }
+       int[] arr=new int[n];
+        for (int i = 0; i <n ; i++) {
+            arr[i]=sc.nextInt();
         }
+        sc.close();
         calc(n, d, arr);
 
     }
 
     public static void calc(int N, int D, int[] arr) {
+
         long temp = 0;
-        int l = arr[0] + D;
+        int L = arr[0] + D;
         int mark = 0;
         for (int j = 0; j < N; j++) {
-            if (arr[j] <= l) {
+            if (arr[j] <= L) {
                 mark = j + 1;
             }
         }
         if (mark >= 3) {
-            temp = (factorial(mark) / (6 * factorial(mark - 3))) % 99997867;
+            temp = factorial(mark)%99997867;
         }
         System.out.println(temp);
     }
-
+    //计算阶乘,当m=100时，显然数据量太大，只能采用其他的计算方法。
     public static long factorial(int m) {
-        if (m == 0) return 1;
-        long n = 1;
-        while (m > 0) {
-            n = n * m--;
-        }
-        return n;
+           long result = m*(m-1)*(m-2);    //连乘的时候会产生错误，会当成int 的数值进行计算。
+           return result/6;
     }
 }
