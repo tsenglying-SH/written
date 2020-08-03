@@ -10,7 +10,7 @@ public class BiTree {
         public String value;
         public Node left;
         public Node right;
-
+    // 构造函数
         public Node(String value) {
             this.value = value;
         }
