@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e8e308a-3ca7-4938-aea3-5fcdae5160ef" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/Q60.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/Q62.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/structure/src/tree/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/Q38.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/Q4.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/structure/src/tree/BiTree.java" afterPath="$PROJECT_DIR$/structure/src/tree/BiTree.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,26 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Q21.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jianzhi/src/Q21.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q34.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jianzhi/src/Q34.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Question2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recruit_2019/src/huawei/Question2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q60.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q60.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jianzhi/src/Q60.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1040">
@@ -66,6 +44,33 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#398#399#0" expanded="true" />
                 <element signature="e#436#437#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q38.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jianzhi/src/Q38.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1193">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jianzhi/src/Q4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,6 +174,8 @@
         <option value="$PROJECT_DIR$/structure/src/tree/Test.java" />
         <option value="$PROJECT_DIR$/jianzhi/src/Q62.java" />
         <option value="$PROJECT_DIR$/jianzhi/src/Q60.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/Q38.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/Q4.java" />
       </list>
     </option>
   </component>
@@ -481,7 +488,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86279000" />
+    <option name="totallyTimeSpent" value="88492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
@@ -558,22 +565,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/Q34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2019/src/huawei/Question2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-159">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/structure/src/tree/BiTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2254">
@@ -940,6 +931,29 @@
             <element signature="imports" expanded="true" />
             <element signature="e#398#399#0" expanded="true" />
             <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/Q38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1193">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/Q4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
           </folding>
         </state>
       </provider>
