@@ -86,5 +86,7 @@ public class Test {
         System.out.println();
         System.out.println("层次遍历");
         bfs(nodeA);
+
+        
     }
 }
