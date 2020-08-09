@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e8e308a-3ca7-4938-aea3-5fcdae5160ef" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Q5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Q9.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/T5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/alibaba/Q1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/jingdong/Ecep.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/jingdong/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/jingdong/PalindromicString.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/jingdong/Test2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/jingdong/a.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/structure/src/sort/Merge.java" />
+      <change beforePath="$PROJECT_DIR$/structure/src/sort/MergeSort.java" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recruit_2021/src/alibaba/Q1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
               <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Merge.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/structure/src/sort/Merge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-739">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -104,6 +104,7 @@
         <option value="$PROJECT_DIR$/leetcode/src/Q9.java" />
         <option value="$PROJECT_DIR$/leetcode/src/Q5.java" />
         <option value="$PROJECT_DIR$/recruit_2021/src/alibaba/Q1.java" />
+        <option value="$PROJECT_DIR$/structure/src/sort/Merge.java" />
       </list>
     </option>
   </component>
@@ -119,7 +120,9 @@
     <option name="width" value="1166" />
     <option name="height" value="633" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -188,6 +191,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\intellijIDEA2017\projects\written\structure\src\sort" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -414,7 +422,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128432000" />
+    <option name="totallyTimeSpent" value="129095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -510,13 +518,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/recruit_2019/src/huawei/Question1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recruit_2019/src/huawei/Answer1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -731,14 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/structure/src/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/structure/src/search/BiSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -809,7 +802,7 @@
         <state relative-caret-position="4">
           <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -875,7 +868,7 @@
         <state relative-caret-position="253">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -888,10 +881,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/structure/src/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/recruit_2021/src/alibaba/Q1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/src/sort/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-739">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding />
         </state>
       </provider>
