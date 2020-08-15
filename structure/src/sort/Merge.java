@@ -1,5 +1,5 @@
 package sort;
-
+/*归并排序采用的是分治(divide-and-conquer)法思想。*/
 public class Merge {
     /* 基本思想:
     1. 将n个元素从中间切开，分成两部分。（左边可能比右边多1个数）
@@ -14,23 +14,21 @@ public class Merge {
         System.out.println("排序前："+java.util.Arrays.toString(a));
 
         System.out.println("排序后："+java.util.Arrays.toString(a));
-
-
-
-
     }
 
     public static void mergeSort(int[] a,int left, int right) {
         if(left<right){
           int mid = (left+right)/2;
-          mergeSort(a,left,mid);//左边归并排序
-          mergeSort(a,mid+1,right);//右边归并排序
+            mergeSort(a,left,mid);//左边归并排序
+            mergeSort(a,mid+1,right);//右边归并排序
+            //merge(a,left,mid,right);//合并
+
         }
     }
 
-    public static int[] arraySort(int []a,int [] b,int n, int m){
+    /*public static void merge(int []a,int left, int mid, int right){
         //a,b两个有序数列合并
-        int [] temp = new int[a.length+b.length];
+        int [] temp = new int[a.length];//辅助数组
         int i,j,k;
         i=j=k=0;
         while(i<n && j<m){
@@ -45,7 +43,7 @@ public class Merge {
         while(j<m){
             temp[k++]=b[j++];
         }
-        return temp;
-    }
+
+    }*/
 
 }
