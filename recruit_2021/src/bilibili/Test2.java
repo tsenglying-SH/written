@@ -2,6 +2,18 @@ package bilibili;
 
 import java.util.Stack;
 
+<<<<<<< HEAD
+public class Test2 {
+    public static void main(String[] args) {
+        String ss="{[]}";
+        boolean b = IsValidExp(ss);
+        System.out.println(b);
+    }
+
+    public static boolean IsValidExp(String s) {
+        Stack<Character> stack = new Stack<>();
+        for (char c : s.toCharArray()) {
+=======
 /**
  * @ClassName Test2
  * @Description TODO
@@ -27,6 +39,7 @@ public class Test2 {
     public static boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         for (Character c : s.toCharArray()) {
+>>>>>>> acf08fa6a0ed2c9a865add7a2efeac1099143210
             if (c == '(') {
                 stack.push(')');
             } else if (c == '{') {
@@ -39,5 +52,11 @@ public class Test2 {
         }
         return stack.isEmpty();
     }
+<<<<<<< HEAD
+
+
+}
+=======
 }
 //思路：用辅助栈结构进行判断
+>>>>>>> acf08fa6a0ed2c9a865add7a2efeac1099143210

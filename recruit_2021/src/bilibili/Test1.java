@@ -1,5 +1,22 @@
 package bilibili;
 
+<<<<<<< HEAD
+import java.util.ArrayList;
+import java.util.List;
+
+public class Test1 {
+    public static void main(String[] args) {
+        int[] a = {7, 2, 1, 10};
+        boolean b = Game24Points(a);
+        System.out.println(b);
+    }
+
+    public static boolean Game24Points(int[] arr) {
+        if (arr.length != 4) return false;
+        for (int i = 0; i < arr.length; i++) {
+            List<Integer> temp = new ArrayList<>();
+        }
+=======
 /**
  * @ClassName Test1
  * @Description TODO
@@ -25,6 +42,7 @@ public class Test1 {
     public static boolean is24(int[] arr){
         if(arr.length!=4) return false;
 
+>>>>>>> acf08fa6a0ed2c9a865add7a2efeac1099143210
         return false;
     }
 }
