@@ -15,7 +15,7 @@ public class Premutation {
             n--;
         }
         return result;
-    }
+}
 
     public static void main(String[] args) {
         int a=premutation(100,2);
