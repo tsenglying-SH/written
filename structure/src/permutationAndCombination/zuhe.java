@@ -18,7 +18,9 @@ public class zuhe {
         ArrayList<ArrayList<Integer>> res= new ArrayList<>();
         dfs(n,k,1,path,res);
         System.out.println(res);
-        System.out.println(res.size());
+        for (ArrayList<Integer> re : res) {
+            System.out.println(re);
+        }
 
     }
     public static void dfs(int n , int k, int begin, Stack<Integer> path, ArrayList<ArrayList<Integer>> res){
