@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * @ClassName T1
+ * @ClassName M1
  * @Description TODO
  *
  * @Author Tsenglying

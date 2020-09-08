@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-public class BiTree {
+public class  BiTree {
     // 定义节点
     public static class Node {
         public String value;

@@ -12,17 +12,17 @@ import java.util.Arrays;
 public class BiSearch {
     public static int biSearch(int[] arr, int key) {
         int left = 0, right = arr.length - 1, mid = 0;
-        if (key < arr[left] || key > arr[right] || left > right)
-            return -1;
-        while (left <= right) {
-            mid = (left + right) / 2;
-            if (arr[mid] < key) {
-                left = mid;
-            } else if (arr[mid] > key) {
-                right = mid;
-            } else {
-                return mid;
-            }
+            if (key < arr[left] || key > arr[right] || left > right)
+                return -1;
+            while (left <= right) {
+                mid = (left + right) / 2;
+                if (arr[mid] < key) {
+                    left = mid;
+                } else if (arr[mid] > key) {
+                    right = mid;
+                } else {
+                    return mid;
+                }
         }
         return -1; //没有找到
     }
