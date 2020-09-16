@@ -114,7 +114,7 @@ public class  BiTree {
         nodeE.left = nodeG;
         nodeC.right = nodeF;
 
-        // 递归先序遍历
+      /*  // 递归先序遍历
         System.out.print("先序遍历: ");
         preOrder(nodeA);
         // 递归中序遍历
@@ -137,7 +137,7 @@ public class  BiTree {
         // 非递归后序
         System.out.println();
         System.out.print("非递归后序遍历: ");
-        postOrder2(nodeA);
+        postOrder2(nodeA);*/
 
         System.out.println();
         System.out.print("层次遍历: ");
