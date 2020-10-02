@@ -2,36 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="327c9953-0dfe-4695-9869-53bf86f4f75a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/recruit_2021/ABC/T1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/recruit_2021/ABC/T2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/recruit_2021/ABC/T3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/recruit_2021/huawie/Main1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/recruit_2021/huawie/Main2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/ABC/T1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/ABC/T2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/ABC/T3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/aiqiyi0913/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/aiqiyi0913/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/aiqiyi0913/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/wangyi0912/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/wangyi0912/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/wangyi0912/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/wubatongcheng0914/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/wubatongcheng0914/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/wubatongcheng0914/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/xiaohongshu0830/M33.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/xiaohongshu0830/M4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/xiaomi0915/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/xiaomi0915/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/xiecheng0908/Q1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/zhongxing0914/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/z_practice/src/T11.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/duxiaoman0920/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/duxiaoman0920/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/gensheixue0923/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/gensheixue0923/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/hengsheng0918/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/jinrongyizhangtong0917/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/jinrongyizhangtong0917/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/pingankeji0918/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/pingankeji0918/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main4.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/weizhongbank0927/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/weizhongbank0927/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/weizhongbank0927/Main3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/xinlangjinrong0928/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/recruit_2021/src/xinlangjinrong0928/Main2.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/recruit_2021/quanpailie.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/structure/permutationAndCombination/zuhe.class" afterPath="$PROJECT_DIR$/out/production/structure/permutationAndCombination/zuhe.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/structure/tree/BiTree.class" afterPath="$PROJECT_DIR$/out/production/structure/tree/BiTree.class" />
-      <change beforePath="$PROJECT_DIR$/structure/src/permutationAndCombination/zuhe.java" afterPath="$PROJECT_DIR$/structure/src/permutationAndCombination/zuhe.java" />
-      <change beforePath="$PROJECT_DIR$/structure/src/tree/BiTree.java" afterPath="$PROJECT_DIR$/structure/src/tree/BiTree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,13 +31,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/written$Main2.coverage" NAME="Main2 Coverage Results" MODIFIED="1601215138629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>weizhongbank0927.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Main1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recruit_2021/src/xiaomi0915/Main1.java">
+        <entry file="file://$PROJECT_DIR$/recruit_2021/src/xinlangjinrong0928/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="34" column="17" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="34" selection-end-column="17" />
+            <state relative-caret-position="212">
+              <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,14 +50,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/recruit_2021/src/xiaomi0915/Main2.java">
+      <file leaf-file-name="Executors.java" pinned="false" current-in-tab="false">
+        <entry file="jar://A:/java/jdk1.8.0_162/src.zip!/java/util/concurrent/Executors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="171" column="23" lean-forward="true" selection-start-line="171" selection-start-column="23" selection-end-line="171" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Executor.java" pinned="false" current-in-tab="true">
+        <entry file="jar://A:/java/jdk1.8.0_162/src.zip!/java/util/concurrent/Executor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="127" column="21" lean-forward="true" selection-start-line="127" selection-start-column="21" selection-end-line="127" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,6 +80,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -107,6 +111,28 @@
         <option value="$PROJECT_DIR$/recruit_2021/src/xiaomi0915/Main1.java" />
         <option value="$PROJECT_DIR$/recruit_2021/src/xiaomi0915/Main3.java" />
         <option value="$PROJECT_DIR$/recruit_2021/src/xiaomi0915/Main2.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/jinrongyizhangtong0917/Main2.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/hengsheng0918/Main1.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/pingankeji/Main1.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/pingankeji/Main2.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/jinrongyizhangtong0917/Main1.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/pingankeji0918/Main1.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/pingankeji0918/Main2.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/duxiaoman0920/Main1.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/duxiaoman0920/Main2.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/gensheixue0923/Main2.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main1.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main2.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main4.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main5.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main3.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/gensheixue0923/Main1.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/weizhongbank0927/Main1.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/weizhongbank0927/Main3.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/weizhongbank0927/Main2.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/xinlangjinrong0928/Main2.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/xinlangjinrong0928/Main3.java" />
+        <option value="$PROJECT_DIR$/recruit_2021/src/xinlangjinrong0928/Main1.java" />
       </list>
     </option>
   </component>
@@ -117,10 +143,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="148" />
-    <option name="y" value="52" />
-    <option name="width" value="1193" />
-    <option name="height" value="724" />
+    <option name="x" value="48" />
+    <option name="y" value="63" />
+    <option name="width" value="1166" />
+    <option name="height" value="753" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -137,6 +163,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,33 +181,30 @@
             </path>
             <path>
               <item name="written" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recruit_2021" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xinlangjinrong0928" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="written" type="b2602c69:ProjectViewProjectNode" />
               <item name="structure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="written" type="b2602c69:ProjectViewProjectNode" />
               <item name="structure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="written" type="b2602c69:ProjectViewProjectNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/recruit_2021/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../back" />
   </component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
@@ -185,10 +212,11 @@
       <recent name="arr" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="xiaomi0915" />
-      <recent name="wubatongcheng0914" />
-      <recent name="aiqiyi0913" />
-      <recent name="wangyi0912" />
+      <recent name="xinlangjinrong0928" />
+      <recent name="weizhongbank0927" />
+      <recent name="qunaer0923" />
+      <recent name="gensheixue0923" />
+      <recent name="pingankeji" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -203,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.Main1 (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -211,33 +239,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="BiTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="tree.*" />
+          <option name="PATTERN" value="xinlangjinrong0928.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="tree.BiTree" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="structure" />
-      <envs />
-    </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="wubatongcheng0914.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="wubatongcheng0914.Main1" />
+      <option name="MAIN_CLASS_NAME" value="xinlangjinrong0928.Main1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -252,11 +261,11 @@
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xiaomi0915.*" />
+          <option name="PATTERN" value="weizhongbank0927.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xiaomi0915.Main1" />
+      <option name="MAIN_CLASS_NAME" value="weizhongbank0927.Main1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -271,11 +280,11 @@
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xiaomi0915.*" />
+          <option name="PATTERN" value="gensheixue0923.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xiaomi0915.Main1" />
+      <option name="MAIN_CLASS_NAME" value="gensheixue0923.Main1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -290,11 +299,49 @@
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xiaomi0915.*" />
+          <option name="PATTERN" value="weizhongbank0927.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xiaomi0915.Main2" />
+      <option name="MAIN_CLASS_NAME" value="weizhongbank0927.Main2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="recruit_2021" />
+      <envs />
+    </configuration>
+    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="weizhongbank0927.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="weizhongbank0927.Main3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="recruit_2021" />
+      <envs />
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="qunaer0923.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="qunaer0923.Main3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -381,19 +428,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BiTree" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main3" />
       <item index="1" class="java.lang.String" itemvalue="Application.Main1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main1 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main1" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main3 (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main1 (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main1 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main1 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main3 (1)" />
         <item index="3" class="java.lang.String" itemvalue="Application.Main1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BiTree" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -411,15 +458,17 @@
       <option name="presentableId" value="Default" />
       <updated>1599536815315</updated>
       <workItem from="1599536816855" duration="4712000" />
-      <workItem from="1599892512988" duration="20162000" />
+      <workItem from="1599892512988" duration="43847000" />
+      <workItem from="1601206502303" duration="14212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24874000" />
+    <option name="totallyTimeSpent" value="62771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -430,23 +479,23 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37460318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16190477" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21449487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21449487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49268293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36984128" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -458,238 +507,29 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/recruit_2021/src/duxiaoman0920/Main1.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main2.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="30" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/sike0907/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/xiecheng0908/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/z_practice/src/T11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/src/hashMap/HashMapp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/sike0907/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/xiecheng0908/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/z_practice/src/T11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/src/hashMap/HashMapp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/wangyi0912/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Q206.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-326">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Q136.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Q121.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Q77.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Q46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Q20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Q5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-346">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Q9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/wangyi0912/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/src/permutationAndCombination/pailie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/src/permutationAndCombination/zuhe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/wangyi0912/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/src/permutationAndCombination/Premutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-77">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/huawei/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/huawei/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1012">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/xiaohongshu0830/M3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/wangyihuyu/M4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/xiaohongshu0830/M4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recruit_2021/src/wangyihuyu/M3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-483">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,9 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="17" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -707,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,9 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,9 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,18 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#461#470#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/src/tree/BiTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2346">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,25 +586,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-207">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/array.java" />
     <entry file="file://$PROJECT_DIR$/recruit_2021/src/xiaomi0915/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -796,7 +601,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/xiaomi0915/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -804,19 +615,900 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="34" column="17" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/jinrongyizhangtong0917/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/hengsheng0918/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/jinrongyizhangtong0917/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/pingankeji0918/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/pingankeji0918/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/duxiaoman0920/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/duxiaoman0920/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/src/permutationAndCombination/pailie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/src/permutationAndCombination/arrayZuhe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/src/permutationAndCombination/zuhe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/src/permutationAndCombination/Premutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/src/permutationAndCombination/Combination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://A:/java/jdk1.8.0_162/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="604" column="11" lean-forward="false" selection-start-line="604" selection-start-column="11" selection-end-line="604" selection-end-column="11" />
+          <folding>
+            <element signature="e#22896#22897#0" expanded="false" />
+            <element signature="e#22925#22926#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/qunaer0923/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/gensheixue0923/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/gensheixue0923/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://A:/java/jdk1.8.0_162/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/weizhongbank0927/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/weizhongbank0927/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/weizhongbank0927/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1817">
+          <caret line="79" column="29" lean-forward="true" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1774#1775#0" expanded="false" />
+            <element signature="e#2050#2051#0" expanded="false" />
+            <element signature="e#2088#2089#0" expanded="false" />
+            <element signature="e#2153#2154#0" expanded="false" />
+            <element signature="e#2192#2193#0" expanded="false" />
+            <element signature="e#2230#2231#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/xinlangjinrong0928/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/src/tree/BiTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/xinlangjinrong0928/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.Executor">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.Executor</OriginalElement>
+          <nodes>
+            <node x="766.875" y="160.0">java.util.concurrent.AbstractExecutorService</node>
+            <node x="152.6282407407407" y="240.0">java.util.concurrent.ThreadPoolExecutor</node>
+            <node x="175.0" y="320.0">sun.awt.shell.Win32ShellFolderManager2.ComInvoker</node>
+            <node x="858.125" y="0.0">java.util.concurrent.Executor</node>
+            <node x="760.875" y="240.0">java.util.concurrent.Executors.DelegatedExecutorService</node>
+            <node x="0.0" y="320.0">com.sun.javafx.tk.quantum.QuantumRenderer</node>
+            <node x="1277.625" y="80.0">sun.net.httpserver.ServerImpl.DefaultExecutor</node>
+            <node x="814.625" y="80.0">java.util.concurrent.CompletableFuture.ThreadPerTaskExecutor</node>
+            <node x="314.0" y="320.0">java.util.concurrent.ScheduledThreadPoolExecutor</node>
+            <node x="502.625" y="80.0">com.sun.jmx.remote.internal.ClientNotifForwarder.LinearExecutor</node>
+            <node x="979.875" y="240.0">java.util.concurrent.ForkJoinPool</node>
+            <node x="1019.625" y="80.0">sun.nio.ch.AsynchronousChannelGroupImpl</node>
+            <node x="838.0" y="320.0">java.util.concurrent.Executors.FinalizableDelegatedExecutorService</node>
+            <node x="1101.625" y="160.0">sun.nio.ch.Iocp</node>
+            <node x="453.75" y="240.0">java.util.concurrent.ScheduledExecutorService</node>
+            <node x="655.625" y="80.0">java.util.concurrent.ExecutorService</node>
+            <node x="559.0" y="320.0">java.util.concurrent.Executors.DelegatedScheduledExecutorService</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.AbstractExecutorService" target="java.util.concurrent.ExecutorService">
+              <point x="0.0" y="-15.0" />
+              <point x="860.375" y="135.0" />
+              <point x="759.875" y="135.0" />
+              <point x="34.75" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.DelegatedScheduledExecutorService" target="java.util.concurrent.Executors.DelegatedExecutorService">
+              <point x="64.75" y="-15.0" />
+              <point x="753.25" y="295.0" />
+              <point x="810.625" y="295.0" />
+              <point x="-49.75" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ForkJoinPool" target="java.util.concurrent.AbstractExecutorService">
+              <point x="0.0" y="-15.0" />
+              <point x="1041.375" y="220.0" />
+              <point x="922.7083333333334" y="220.0" />
+              <point x="62.33333333333337" y="15.0" />
+            </edge>
+            <edge source="sun.net.httpserver.ServerImpl.DefaultExecutor" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-15.0" />
+              <point x="1347.125" y="50.0" />
+              <point x="946.325" y="50.0" />
+              <point x="39.200000000000045" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ExecutorService" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-15.0" />
+              <point x="725.125" y="60.0" />
+              <point x="887.5250000000001" y="60.0" />
+              <point x="-19.59999999999991" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ScheduledThreadPoolExecutor" target="java.util.concurrent.ScheduledExecutorService">
+              <point x="56.25" y="-15.0" />
+              <point x="482.75" y="295.0" />
+              <point x="503.5" y="295.0" />
+              <point x="-49.75" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.FinalizableDelegatedExecutorService" target="java.util.concurrent.Executors.DelegatedExecutorService">
+              <point x="0.0" y="-15.0" />
+              <point x="967.5" y="295.0" />
+              <point x="910.125" y="295.0" />
+              <point x="49.75" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ScheduledExecutorService" target="java.util.concurrent.ExecutorService">
+              <point x="0.0" y="-15.0" />
+              <point x="553.25" y="210.0" />
+              <point x="460.9893518518519" y="210.0" />
+              <point x="460.9893518518519" y="135.0" />
+              <point x="690.375" y="135.0" />
+              <point x="-34.75" y="15.0" />
+            </edge>
+            <edge source="sun.awt.shell.Win32ShellFolderManager2.ComInvoker" target="java.util.concurrent.ThreadPoolExecutor">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="sun.nio.ch.AsynchronousChannelGroupImpl" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-15.0" />
+              <point x="1138.625" y="60.0" />
+              <point x="926.7249999999999" y="60.0" />
+              <point x="19.59999999999991" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.CompletableFuture.ThreadPerTaskExecutor" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.sun.jmx.remote.internal.ClientNotifForwarder.LinearExecutor" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-15.0" />
+              <point x="569.125" y="50.0" />
+              <point x="867.925" y="50.0" />
+              <point x="-39.200000000000045" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ScheduledThreadPoolExecutor" target="java.util.concurrent.ThreadPoolExecutor">
+              <point x="-56.25" y="-15.0" />
+              <point x="370.25" y="295.0" />
+              <point x="290.1282407407407" y="295.0" />
+              <point x="55.0" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.DelegatedExecutorService" target="java.util.concurrent.AbstractExecutorService">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="sun.nio.ch.Iocp" target="sun.nio.ch.AsynchronousChannelGroupImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.sun.javafx.tk.quantum.QuantumRenderer" target="java.util.concurrent.ThreadPoolExecutor">
+              <point x="0.0" y="-15.0" />
+              <point x="77.5" y="295.0" />
+              <point x="180.1282407407407" y="295.0" />
+              <point x="-55.0" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.Executors.DelegatedScheduledExecutorService" target="java.util.concurrent.ScheduledExecutorService">
+              <point x="-64.75" y="-15.0" />
+              <point x="623.75" y="295.0" />
+              <point x="603.0" y="295.0" />
+              <point x="49.75" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ThreadPoolExecutor" target="java.util.concurrent.AbstractExecutorService">
+              <point x="0.0" y="-15.0" />
+              <point x="235.1282407407407" y="220.0" />
+              <point x="798.0416666666666" y="220.0" />
+              <point x="-62.33333333333337" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="601.0" y="74.0" />
+          <SelectedNodes>
+            <node>java.util.concurrent.AbstractExecutorService</node>
+            <node>java.util.concurrent.ThreadPoolExecutor</node>
+            <node>sun.awt.shell.Win32ShellFolderManager2.ComInvoker</node>
+            <node>java.util.concurrent.Executors.DelegatedExecutorService</node>
+            <node>com.sun.javafx.tk.quantum.QuantumRenderer</node>
+            <node>sun.net.httpserver.ServerImpl.DefaultExecutor</node>
+            <node>java.util.concurrent.CompletableFuture.ThreadPerTaskExecutor</node>
+            <node>java.util.concurrent.ScheduledThreadPoolExecutor</node>
+            <node>com.sun.jmx.remote.internal.ClientNotifForwarder.LinearExecutor</node>
+            <node>java.util.concurrent.ForkJoinPool</node>
+            <node>sun.nio.ch.AsynchronousChannelGroupImpl</node>
+            <node>java.util.concurrent.Executors.FinalizableDelegatedExecutorService</node>
+            <node>sun.nio.ch.Iocp</node>
+            <node>java.util.concurrent.ScheduledExecutorService</node>
+            <node>java.util.concurrent.ExecutorService</node>
+            <node>java.util.concurrent.Executors.DelegatedScheduledExecutorService</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Collection">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Collection</OriginalElement>
+          <nodes>
+            <node x="" y="">java.beans.beancontext.BeanContext</node>
+            <node x="" y="">java.util.Collections.UnmodifiableMap.UnmodifiableEntrySet</node>
+            <node x="" y="">com.sun.javafx.scene.control.ReadOnlyUnbackedObservableList</node>
+            <node x="" y="">javafx.beans.property.ReadOnlySetPropertyBase</node>
+            <node x="" y="">java.util.LinkedList.DescendingIterator</node>
+            <node x="" y="">com.sun.javafx.collections.UnmodifiableListSet</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArrayList.COWSubListIterator</node>
+            <node x="" y="">java.util.AbstractList.Itr</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.Transferer</node>
+            <node x="" y="">java.util.JumboEnumSet.EnumSetIterator</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.xs.StringList</node>
+            <node x="" y="">java.util.Vector</node>
+            <node x="" y="">javafx.beans.property.SetPropertyBase.Listener</node>
+            <node x="" y="">java.util.Collections.EmptyList</node>
+            <node x="" y="">com.sun.corba.se.impl.util.RepositoryIdPool</node>
+            <node x="" y="">java.util.concurrent.PriorityBlockingQueue.PBQSpliterator</node>
+            <node x="" y="">java.beans.beancontext.BeanContextServices</node>
+            <node x="" y="">javafx.beans.property.ListProperty</node>
+            <node x="" y="">jdk.internal.org.objectweb.asm.tree.analysis.SmallSet</node>
+            <node x="" y="">java.util.EnumMap.KeySet</node>
+            <node x="" y="">java.util.EnumSet</node>
+            <node x="" y="">com.sun.corba.se.impl.orbutil.graph.GraphImpl</node>
+            <node x="" y="">java.util.concurrent.LinkedTransferQueue.Node</node>
+            <node x="" y="">java.util.PriorityQueue.Itr</node>
+            <node x="" y="">java.util.LinkedHashMap.LinkedKeySet</node>
+            <node x="" y="">java.util.HashMap.Values</node>
+            <node x="" y="">java.beans.beancontext.BeanContextServicesSupport.BCSSServiceProvider</node>
+            <node x="" y="">java.beans.beancontext.BeanContextServicesSupport.BCSSProxyServiceProvider</node>
+            <node x="" y="">java.util.concurrent.DelayQueue.Itr</node>
+            <node x="" y="">java.util.Collections.CheckedMap.CheckedEntrySet</node>
+            <node x="" y="">java.util.concurrent.BlockingQueue</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArraySet</node>
+            <node x="" y="">javax.print.attribute.standard.JobStateReasons</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.EntrySetView</node>
+            <node x="" y="">java.util.IdentityHashMap.KeySet</node>
+            <node x="" y="">java.util.Collections.SynchronizedCollection</node>
+            <node x="" y="">java.util.Collections.AsLIFOQueue</node>
+            <node x="" y="">java.util.concurrent.ArrayBlockingQueue.Itrs.Node</node>
+            <node x="" y="">java.util.concurrent.ArrayBlockingQueue</node>
+            <node x="" y="">com.sun.deploy.util.OrderedHashSet</node>
+            <node x="" y="">com.sun.corba.se.spi.ior.IdentifiableContainerBase</node>
+            <node x="" y="">javafx.collections.ObservableList</node>
+            <node x="" y="">java.util.LinkedList.LLSpliterator</node>
+            <node x="" y="">java.util.Collections.SetFromMap</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque.Node</node>
+            <node x="" y="">com.sun.xml.internal.ws.transport.http.HttpAdapterList.PortInfo</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.xs.ShortList</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArrayList</node>
+            <node x="" y="">com.sun.org.apache.xalan.internal.xsltc.compiler.util.StringStack</node>
+            <node x="" y="">java.util.concurrent.ScheduledThreadPoolExecutor.DelayedWorkQueue.Itr</node>
+            <node x="" y="">com.sun.javafx.collections.ImmutableObservableList</node>
+            <node x="" y="">com.sun.javafx.scene.control.skin.TreeTableViewSkin.TreeTableViewBackingList</node>
+            <node x="" y="">java.util.TreeMap.Values</node>
+            <node x="" y="">com.sun.corba.se.impl.ior.IORTemplateListImpl</node>
+            <node x="" y="">com.sun.java.util.jar.pack.Fixups.Fixup</node>
+            <node x="" y="">java.util.Collections.SingletonList</node>
+            <node x="" y="">javafx.beans.binding.ListExpression</node>
+            <node x="" y="">com.sun.javafx.css.BitSet</node>
+            <node x="" y="">com.sun.javafx.collections.ObservableListWrapper</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque.Node</node>
+            <node x="" y="">java.util.SubList</node>
+            <node x="" y="">com.sun.corba.se.spi.ior.IORTemplateList</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingQueue.Itr</node>
+            <node x="" y="">java.util.PriorityQueue.PriorityQueueSpliterator</node>
+            <node x="" y="">javax.security.auth.Subject.SecureSet</node>
+            <node x="" y="">javafx.collections.transformation.TransformationList</node>
+            <node x="" y="">javafx.collections.FXCollections.SynchronizedCollection</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.xs.LSInputList</node>
+            <node x="" y="">javafx.beans.property.ReadOnlyListPropertyBase</node>
+            <node x="" y="">javax.swing.JEditorPane.JEditorPaneAccessibleHypertextSupport.LinkVector</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.xs.util.XSObjectListImpl</node>
+            <node x="" y="">java.util.concurrent.BlockingDeque</node>
+            <node x="" y="">java.util.Collections.CheckedNavigableSet</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque.AbstractItr</node>
+            <node x="" y="">javafx.scene.control.MultipleSelectionModelBase.BitSetReadOnlyUnbackedObservableList</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque.Itr</node>
+            <node x="" y="">javax.imageio.spi.PartiallyOrderedSet</node>
+            <node x="" y="">javafx.beans.property.SimpleSetProperty</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.xs.util.XSObjectListImpl.XSObjectListIterator</node>
+            <node x="" y="">com.sun.corba.se.impl.interceptors.PIHandlerImpl.RequestInfoStack</node>
+            <node x="" y="">java.util.WeakHashMap.Values</node>
+            <node x="" y="">com.sun.javafx.collections.VetoableListDecorator.ModCountAccessor</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.xs.datatypes.ByteList</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.xs.util.ObjectListImpl</node>
+            <node x="" y="">javafx.beans.binding.SetExpression.EmptyObservableSet</node>
+            <node x="" y="">java.util.Collections.SynchronizedRandomAccessList</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque.DescendingItr</node>
+            <node x="" y="">java.util.ArrayDeque.DeqIterator</node>
+            <node x="" y="">com.sun.javafx.css.PseudoClassState</node>
+            <node x="" y="">sun.awt.util.IdentityLinkedList.Entry</node>
+            <node x="" y="">java.util.Collections.UnmodifiableSet</node>
+            <node x="" y="">javafx.beans.property.ReadOnlySetWrapper</node>
+            <node x="" y="">java.util.Collections.UnmodifiableMap.UnmodifiableEntrySet.UnmodifiableEntry</node>
+            <node x="" y="">java.util.Collections.CheckedSortedSet</node>
+            <node x="" y="">javax.security.auth.Subject.ClassSet</node>
+            <node x="" y="">javafx.beans.value.ObservableListValue</node>
+            <node x="" y="">java.util.SortedSet</node>
+            <node x="" y="">com.sun.xml.internal.bind.v2.util.CollisionCheckStack</node>
+            <node x="" y="">java.util.PriorityQueue</node>
+            <node x="" y="">java.beans.beancontext.BeanContextSupport.BCSIterator</node>
+            <node x="" y="">java.util.Collections.SynchronizedSortedSet</node>
+            <node x="" y="">javafx.beans.value.WritableSetValue</node>
+            <node x="" y="">java.util.concurrent.PriorityBlockingQueue</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.dv.xs.XSSimpleTypeDecl.AbstractObjectList</node>
+            <node x="" y="">java.util.AbstractCollection</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.TransferQueue</node>
+            <node x="" y="">java.util.concurrent.LinkedTransferQueue.LTQSpliterator</node>
+            <node x="" y="">com.sun.javafx.collections.VetoableListDecorator.VetoableIteratorDecorator</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.xs.XSNamespaceItemList</node>
+            <node x="" y="">com.sun.corba.se.spi.ior.IORTemplate</node>
+            <node x="" y="">java.util.ArrayList.ListItr</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque.Itr</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.FifoWaitQueue</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedQueue.CLQSpliterator</node>
+            <node x="" y="">java.beans.beancontext.BeanContextServicesSupport</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ValuesView</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue</node>
+            <node x="" y="">javafx.collections.FXCollections.UnmodifiableObservableListImpl</node>
+            <node x="" y="">java.util.Collection</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.LifoWaitQueue</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.TransferQueue.QNode</node>
+            <node x="" y="">com.sun.javafx.scene.control.ReadOnlyUnbackedObservableList.SelectionListIterator</node>
+            <node x="" y="">com.sun.corba.se.impl.ior.FreezableList</node>
+            <node x="" y="">java.util.ArrayDeque.DescendingIterator</node>
+            <node x="" y="">javafx.collections.FXCollections.SingletonObservableList</node>
+            <node x="" y="">java.util.Queue</node>
+            <node x="" y="">javafx.beans.binding.SetExpression</node>
+            <node x="" y="">javafx.collections.ModifiableObservableListBase</node>
+            <node x="" y="">com.sun.java.util.jar.pack.Fixups.Itr</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedQueue.Itr</node>
+            <node x="" y="">java.util.EnumSet.SerializationProxy</node>
+            <node x="" y="">com.sun.corba.se.impl.ior.IORTemplateImpl</node>
+            <node x="" y="">com.sun.xml.internal.bind.v2.runtime.reflect.Lister.Pack</node>
+            <node x="" y="">javafx.collections.FXCollections.CheckedObservableSet</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.KeySet</node>
+            <node x="" y="">javafx.collections.FXCollections.SynchronizedSet</node>
+            <node x="" y="">sun.security.x509.AttributeNameEnumeration</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.dv.xs.ListDV.ListData</node>
+            <node x="" y="">com.sun.javafx.collections.VetoableListDecorator.VetoableSubListDecorator</node>
+            <node x="" y="">java.util.HashMap.KeySet</node>
+            <node x="" y="">java.util.concurrent.LinkedTransferQueue</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.dv.xs.HexBinaryDV.XHex</node>
+            <node x="" y="">com.sun.jmx.snmp.agent.SnmpMibOid.NonSyncVector</node>
+            <node x="" y="">javafx.scene.control.TextArea.ParagraphList</node>
+            <node x="" y="">javafx.collections.FXCollections.SynchronizedObservableSet</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArrayList.COWSubList</node>
+            <node x="" y="">javafx.beans.property.SimpleListProperty</node>
+            <node x="" y="">java.util.Stack</node>
+            <node x="" y="">javax.management.relation.RoleUnresolvedList</node>
+            <node x="" y="">java.util.HashSet</node>
+            <node x="" y="">java.util.concurrent.ScheduledThreadPoolExecutor.DelayedWorkQueue</node>
+            <node x="" y="">javafx.beans.property.ListPropertyBase.SizeProperty</node>
+            <node x="" y="">java.util.Vector.Itr</node>
+            <node x="" y="">java.util.concurrent.DelayQueue</node>
+            <node x="" y="">sun.net.www.http.ClientVector</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.Values</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedQueue.Node</node>
+            <node x="" y="">javafx.beans.binding.SetBinding</node>
+            <node x="" y="">com.sun.javafx.collections.ElementObservableListDecorator</node>
+            <node x="" y="">java.util.LinkedList</node>
+            <node x="" y="">com.sun.javafx.css.BitSet.Change</node>
+            <node x="" y="">java.util.Collections.UnmodifiableList</node>
+            <node x="" y="">sun.misc.SoftCache.EntrySet</node>
+            <node x="" y="">java.util.Collections.SynchronizedNavigableSet</node>
+            <node x="" y="">java.util.RandomAccessSubList</node>
+            <node x="" y="">java.util.RegularEnumSet.EnumSetIterator</node>
+            <node x="" y="">com.sun.javafx.collections.ObservableSetWrapper.SimpleRemoveChange</node>
+            <node x="" y="">javafx.beans.property.SetPropertyBase</node>
+            <node x="" y="">javafx.beans.property.ReadOnlyListWrapper.ReadOnlyPropertyImpl</node>
+            <node x="" y="">java.util.ArrayList.SubList</node>
+            <node x="" y="">javafx.collections.FXCollections.CheckedObservableMap.CheckedEntrySet</node>
+            <node x="" y="">com.sun.jmx.snmp.daemon.WaitQ</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque</node>
+            <node x="" y="">java.util.Hashtable.EntrySet</node>
+            <node x="" y="">java.util.Hashtable.ValueCollection</node>
+            <node x="" y="">com.sun.javafx.collections.VetoableListDecorator.VetoableSubListDecorator.ModCountAccessorImplSub</node>
+            <node x="" y="">javax.print.attribute.standard.PrinterStateReasons.PrinterStateReasonSet</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListSet</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.xs.util.ShortListImpl</node>
+            <node x="" y="">com.sun.javafx.collections.ObservableSetWrapper.SimpleAddChange</node>
+            <node x="" y="">jdk.nashorn.internal.runtime.ListAdapter</node>
+            <node x="" y="">java.util.Collections.UnmodifiableCollection</node>
+            <node x="" y="">java.util.TreeMap.DescendingSubMap.DescendingEntrySetView</node>
+            <node x="" y="">java.util.Collections.CheckedSet</node>
+            <node x="" y="">com.sun.javafx.collections.ObservableSetWrapper</node>
+            <node x="" y="">javafx.beans.property.ListPropertyBase</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.KeySetView</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingQueue.Node</node>
+            <node x="" y="">com.sun.xml.internal.ws.api.message.HeaderList</node>
+            <node x="" y="">jdk.nashorn.internal.runtime.JSONListAdapter</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingQueue.LBQSpliterator</node>
+            <node x="" y="">java.util.LinkedHashMap.LinkedValues</node>
+            <node x="" y="">org.jcp.xml.dsig.internal.dom.DOMUtils.NodeSet</node>
+            <node x="" y="">java.util.ArrayDeque.DeqSpliterator</node>
+            <node x="" y="">javax.management.relation.RoleList</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.xs.XSModelImpl.XSNamespaceItemListIterator</node>
+            <node x="" y="">java.util.Collections.CheckedList</node>
+            <node x="" y="">javafx.beans.property.ListPropertyBase.Listener</node>
+            <node x="" y="">java.util.Vector.ListItr</node>
+            <node x="" y="">java.beans.beancontext.BeanContextSupport.BCSChild</node>
+            <node x="" y="">java.util.AbstractQueue</node>
+            <node x="" y="">com.sun.javafx.collections.TrackableObservableList</node>
+            <node x="" y="">sun.awt.util.IdentityLinkedList</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.dv.util.ByteListImpl</node>
+            <node x="" y="">com.sun.javafx.fxml.expression.KeyPath</node>
+            <node x="" y="">sun.awt.util.IdentityLinkedList.DescendingIterator</node>
+            <node x="" y="">java.util.Arrays.ArrayList</node>
+            <node x="" y="">com.sun.xml.internal.ws.transport.http.HttpAdapterList</node>
+            <node x="" y="">java.util.concurrent.ArrayBlockingQueue.Itr</node>
+            <node x="" y="">com.sun.javafx.collections.ObservableSequentialListWrapper</node>
+            <node x="" y="">java.util.IdentityHashMap.Values</node>
+            <node x="" y="">java.util.Collections.UnmodifiableSortedSet</node>
+            <node x="" y="">java.util.Collections.UnmodifiableMap.UnmodifiableEntrySet.UnmodifiableEntrySetSpliterator</node>
+            <node x="" y="">java.util.ArrayList.Itr</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArrayList.COWIterator</node>
+            <node x="" y="">com.sun.javafx.collections.SortableList</node>
+            <node x="" y="">sun.awt.util.IdentityArrayList</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.EntrySet</node>
+            <node x="" y="">java.util.EnumMap.Values</node>
+            <node x="" y="">com.sun.jmx.snmp.daemon.SendQ</node>
+            <node x="" y="">java.util.Collections.CheckedQueue</node>
+            <node x="" y="">java.util.Collections.CheckedCollection</node>
+            <node x="" y="">java.util.Set</node>
+            <node x="" y="">java.util.Collections.SingletonSet</node>
+            <node x="" y="">com.sun.istack.internal.FinalArrayList</node>
+            <node x="" y="">java.util.RegularEnumSet</node>
+            <node x="" y="">com.sun.xml.internal.org.jvnet.mimepull.FinalArrayList</node>
+            <node x="" y="">javafx.beans.binding.ListBinding.EmptyProperty</node>
+            <node x="" y="">com.sun.corba.se.impl.orbutil.graph.GraphImpl.NodeVisitor</node>
+            <node x="" y="">java.util.EnumMap.EntrySet</node>
+            <node x="" y="">javafx.beans.value.ObservableSetValue</node>
+            <node x="" y="">java.util.LinkedList.ListItr</node>
+            <node x="" y="">javafx.beans.binding.SetBinding.EmptyProperty</node>
+            <node x="" y="">sun.swing.BakedArrayList</node>
+            <node x="" y="">java.beans.beancontext.BeanContextSupport</node>
+            <node x="" y="">com.sun.jmx.remote.internal.ArrayQueue</node>
+            <node x="" y="">com.sun.jmx.snmp.daemon.SnmpSubRequestHandler.NonSyncVector</node>
+            <node x="" y="">com.sun.corba.se.spi.ior.TaggedProfileTemplate</node>
+            <node x="" y="">javafx.collections.FXCollections.SynchronizedList</node>
+            <node x="" y="">java.beans.beancontext.BeanContextServicesSupport.BCSSChild.BCSSCServiceRef</node>
+            <node x="" y="">java.beans.beancontext.BeanContextServicesSupport.BCSSChild.BCSSCServiceClassRef</node>
+            <node x="" y="">com.sun.javafx.collections.VetoableListDecorator</node>
+            <node x="" y="">com.sun.xml.internal.ws.util.QNameMap.EntrySet</node>
+            <node x="" y="">java.util.TreeSet</node>
+            <node x="" y="">java.util.ArrayList</node>
+            <node x="" y="">com.sun.java.util.jar.pack.ConstantPool.Index</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.TransferStack.SNode</node>
+            <node x="" y="">javafx.beans.binding.ListBinding</node>
+            <node x="" y="">javafx.beans.property.ReadOnlyListWrapper</node>
+            <node x="" y="">javafx.beans.property.ListPropertyBase.EmptyProperty</node>
+            <node x="" y="">javafx.scene.media.AudioEqualizer.Bands</node>
+            <node x="" y="">java.lang.ProcessEnvironment.CheckedValues</node>
+            <node x="" y="">java.util.concurrent.LinkedTransferQueue.Itr</node>
+            <node x="" y="">java.util.Collections.SynchronizedList</node>
+            <node x="" y="">java.util.ArrayList.ArrayListSpliterator</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.xs.XSModelImpl</node>
+            <node x="" y="">java.util.LinkedHashSet</node>
+            <node x="" y="">java.util.LinkedList.Node</node>
+            <node x="" y="">java.util.TreeMap.NavigableSubMap.EntrySetView</node>
+            <node x="" y="">com.sun.javafx.css.StyleClassSet</node>
+            <node x="" y="">java.lang.ProcessEnvironment.CheckedEntrySet</node>
+            <node x="" y="">java.util.concurrent.ArrayBlockingQueue.Itrs</node>
+            <node x="" y="">com.sun.javafx.collections.ObservableMapWrapper.ObservableValues</node>
+            <node x="" y="">javafx.beans.property.ReadOnlyListProperty</node>
+            <node x="" y="">java.util.HashMap.EntrySet</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.TransferStack</node>
+            <node x="" y="">com.sun.java.util.jar.pack.Fixups</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.xs.XSObjectList</node>
+            <node x="" y="">com.sun.xml.internal.ws.transport.http.server.ServerAdapterList</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque</node>
+            <node x="" y="">javafx.beans.binding.SetBinding.SizeProperty</node>
+            <node x="" y="">java.util.IdentityHashMap.EntrySet</node>
+            <node x="" y="">java.util.ArrayDeque</node>
+            <node x="" y="">java.util.Collections.UnmodifiableRandomAccessList</node>
+            <node x="" y="">com.sun.javafx.collections.VetoableListDecorator.ModCountAccessorImpl</node>
+            <node x="" y="">com.sun.javafx.collections.ObservableMapWrapper.ObservableKeySet</node>
+            <node x="" y="">com.sun.javafx.fxml.builder.ProxyBuilder.ArrayListWrapper</node>
+            <node x="" y="">javafx.collections.FXCollections.CheckedObservableMap.CheckedEntrySet.CheckedEntry</node>
+            <node x="" y="">javafx.collections.ObservableListBase</node>
+            <node x="" y="">com.sun.javafx.UnmodifiableArrayList</node>
+            <node x="" y="">java.util.AbstractList</node>
+            <node x="" y="">java.util.WeakHashMap.EntrySet</node>
+            <node x="" y="">com.sun.javafx.scene.control.skin.VirtualFlow.ArrayLinkedList</node>
+            <node x="" y="">java.util.Collections.CheckedRandomAccessList</node>
+            <node x="" y="">javafx.beans.property.SetPropertyBase.EmptyProperty</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.WaitQueue</node>
+            <node x="" y="">com.sun.xml.internal.ws.server.WSEndpointImpl.EndpointComponentSet</node>
+            <node x="" y="">javafx.collections.FXCollections.SynchronizedObservableList</node>
+            <node x="" y="">javafx.beans.property.ReadOnlySetProperty</node>
+            <node x="" y="">java.util.Vector.VectorSpliterator</node>
+            <node x="" y="">javax.print.MimeType.ParameterMapEntrySet</node>
+            <node x="" y="">java.util.WeakHashMap.KeySet</node>
+            <node x="" y="">javafx.beans.property.SetPropertyBase.SizeProperty</node>
+            <node x="" y="">javafx.collections.transformation.SortedList</node>
+            <node x="" y="">java.util.TreeMap.KeySet</node>
+            <node x="" y="">javafx.collections.ObservableSet</node>
+            <node x="" y="">com.sun.corba.se.spi.ior.IOR</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque.DescendingItr</node>
+            <node x="" y="">java.util.Collections.UnmodifiableNavigableSet</node>
+            <node x="" y="">java.util.LinkedHashMap.LinkedEntrySet</node>
+            <node x="" y="">javafx.collections.transformation.FilteredList</node>
+            <node x="" y="">javafx.collections.FXCollections.EmptyObservableList</node>
+            <node x="" y="">java.util.NavigableSet</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingQueue</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque.CLDSpliterator</node>
+            <node x="" y="">java.util.AbstractSequentialList</node>
+            <node x="" y="">java.lang.ProcessEnvironment.CheckedKeySet</node>
+            <node x="" y="">com.sun.xml.internal.bind.v2.util.QNameMap.EntrySet</node>
+            <node x="" y="">javafx.beans.property.SetProperty</node>
+            <node x="" y="">javafx.collections.ModifiableObservableListBase.SubObservableList</node>
+            <node x="" y="">java.util.List</node>
+            <node x="" y="">java.util.AbstractList.ListItr</node>
+            <node x="" y="">java.util.Hashtable.KeySet</node>
+            <node x="" y="">com.sun.corba.se.impl.orbutil.graph.Graph</node>
+            <node x="" y="">java.util.TreeMap.AscendingSubMap.AscendingEntrySetView</node>
+            <node x="" y="">javafx.collections.FXCollections.UnmodifiableObservableSet</node>
+            <node x="" y="">com.sun.javafx.collections.VetoableListDecorator.VetoableListIteratorDecorator</node>
+            <node x="" y="">java.util.Collections.CheckedMap.CheckedEntrySet.CheckedEntry</node>
+            <node x="" y="">java.util.Collections.CopiesList</node>
+            <node x="" y="">javafx.collections.FXCollections.EmptyObservableSet</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedQueue</node>
+            <node x="" y="">com.sun.xml.internal.ws.transport.http.HttpAdapter.DummyList</node>
+            <node x="" y="">javafx.collections.FXCollections.CheckedObservableList</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.dv.xs.Base64BinaryDV.XBase64</node>
+            <node x="" y="">java.util.AbstractSet</node>
+            <node x="" y="">sun.security.jca.ProviderList.ServiceList</node>
+            <node x="" y="">com.sun.corba.se.spi.ior.TaggedProfileTemplateBase</node>
+            <node x="" y="">java.util.Deque</node>
+            <node x="" y="">javax.management.AttributeList</node>
+            <node x="" y="">java.lang.Iterable</node>
+            <node x="" y="">java.util.concurrent.PriorityBlockingQueue.Itr</node>
+            <node x="" y="">javafx.beans.value.WritableListValue</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.CollectionView</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.xs.util.StringListImpl</node>
+            <node x="" y="">sun.util.resources.ParallelListResourceBundle.KeySet</node>
+            <node x="" y="">com.sun.xml.internal.ws.server.EndpointMessageContextImpl.EntrySet</node>
+            <node x="" y="">com.sun.corba.se.impl.ior.iiop.IIOPProfileTemplateImpl</node>
+            <node x="" y="">java.util.TreeMap.EntrySet</node>
+            <node x="" y="">com.sun.jmx.snmp.SnmpVarBindList</node>
+            <node x="" y="">com.sun.javafx.collections.ObservableMapWrapper.ObservableEntrySet</node>
+            <node x="" y="">javafx.beans.property.ReadOnlySetWrapper.ReadOnlyPropertyImpl</node>
+            <node x="" y="">java.util.Collections.SynchronizedSet</node>
+            <node x="" y="">javafx.collections.transformation.SortedList.Element</node>
+            <node x="" y="">com.sun.corba.se.impl.ior.IORImpl</node>
+            <node x="" y="">sun.net.www.http.KeepAliveStreamCleaner</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.impl.xs.util.LSInputListImpl</node>
+            <node x="" y="">java.beans.beancontext.BeanContextServicesSupport.BCSSChild</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque.AbstractItr</node>
+            <node x="" y="">java.util.Collections.EmptySet</node>
+            <node x="" y="">com.sun.xml.internal.messaging.saaj.util.FinalArrayList</node>
+            <node x="" y="">java.util.concurrent.TransferQueue</node>
+            <node x="" y="">com.sun.corba.se.spi.ior.iiop.IIOPProfileTemplate</node>
+            <node x="" y="">java.util.Collections.UnmodifiableNavigableSet.EmptyNavigableSet</node>
+            <node x="" y="">com.sun.java.util.jar.pack.FixedList</node>
+            <node x="" y="">com.sun.org.apache.xerces.internal.xs.datatypes.ObjectList</node>
+            <node x="" y="">javafx.beans.binding.ListBinding.SizeProperty</node>
+            <node x="" y="">java.util.JumboEnumSet</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque.LBDSpliterator</node>
+            <node x="" y="">sun.awt.util.IdentityLinkedList.ListItr</node>
+            <node x="" y="">javafx.collections.transformation.SortedList.ElementComparator</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2" x="6450.5" y="1464.5000000000005" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://A:/java/jdk1.8.0_162/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.HashMap">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.HashMap</OriginalElement>
+          <nodes>
+            <node x="126.0" y="80.0">java.util.AbstractMap</node>
+            <node x="0.0" y="80.0">java.lang.Cloneable</node>
+            <node x="191.58333333333334" y="0.0">java.util.Map</node>
+            <node x="171.5" y="160.0">java.util.HashMap</node>
+            <node x="270.0" y="80.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="13.0" y="-15.0" />
+              <point x="236.5" y="130.0" />
+              <point x="259.5" y="130.0" />
+              <point x="259.5" y="55.0" />
+              <point x="247.83333333333334" y="55.0" />
+              <point x="18.750000000000004" y="15.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.lang.Cloneable">
+              <point x="-39.0" y="-15.0" />
+              <point x="184.5" y="140.0" />
+              <point x="53.0" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="-13.0" y="-15.0" />
+              <point x="210.5" y="130.0" />
+              <point x="187.5" y="130.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractMap" target="java.util.Map">
+              <point x="0.0" y="-15.0" />
+              <point x="187.5" y="55.0" />
+              <point x="210.33333333333334" y="55.0" />
+              <point x="-18.75" y="15.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.io.Serializable">
+              <point x="39.0" y="-15.0" />
+              <point x="262.5" y="140.0" />
+              <point x="327.0" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-104.5" y="150.0" />
+          <SelectedNodes>
+            <node>java.util.HashMap</node>
+            <node>java.io.Serializable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://A:/java/jdk1.8.0_162/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1923">
+          <caret line="305" column="47" lean-forward="true" selection-start-line="305" selection-start-column="47" selection-end-line="305" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruit_2021/src/xinlangjinrong0928/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recruit_2021/src/xiaomi0915/Main2.java">
+    <entry file="uml://JAVA/java.util.concurrent.ThreadPoolExecutor">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.ThreadPoolExecutor</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.AbstractExecutorService</node>
+            <node x="" y="">java.util.concurrent.Executor</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor</node>
+            <node x="" y="">java.util.concurrent.ExecutorService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="93.5" y="135.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://A:/java/jdk1.8.0_162/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="4433">
+          <caret line="1200" column="42" lean-forward="false" selection-start-line="1200" selection-start-column="42" selection-end-line="1200" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://A:/java/jdk1.8.0_162/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="171" column="23" lean-forward="true" selection-start-line="171" selection-start-column="23" selection-end-line="171" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://A:/java/jdk1.8.0_162/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="127" column="21" lean-forward="true" selection-start-line="127" selection-start-column="21" selection-end-line="127" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
